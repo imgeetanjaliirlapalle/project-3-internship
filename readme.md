@@ -63,4 +63,4 @@ This project helped me understand Secret Management, IAM Security, Least Privile
 
 
 
-#AWS #DevSecOps #SecretsManager #IAM #CloudSecurity #Python #EC2
+#AWS #DevSecOps #SecretsManager #IAM #CloudSecurity #Pytho 
